@@ -1,1 +1,3 @@
-# rodrigodev
+# Rodrigo Carneiro
+
+Senior Backend Developer
