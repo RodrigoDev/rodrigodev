@@ -6,7 +6,7 @@ Senior Backend Developer
 A little about me:
 
 - 🇵🇹   Porto, **Portugal**.
-- 🔭  I’m currently working with **AWS** and **Golang**.
+- 🔭  I’m currently working with **Golang**.
 
 
 ### 📈 Stats 
