@@ -11,9 +11,9 @@ A little about me:
 
 ### 📈 Stats 
  
-[![Rodrigo github stats](https://github-readme-stats.vercel.app/api?username=rodrigodev&theme=cobalt&show_icons=true)](https://github.com/rodrigodev/RodrigoDev)
+[![Rodrigo github stats](https://stats-3uo4b8o1n-rodrigodev.vercel.app/api?username=rodrigodev&theme=cobalt&show_icons=true)](https://github.com/rodrigodev/RodrigoDev)
 
 
 ### 💡  Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigodev&theme=cobalt&show_icons=true)](https://github.com/rodrigodev/RodrigoDev)
+[![Top Langs](https://stats-3uo4b8o1n-rodrigodev.vercel.app/api/top-langs/?username=rodrigodev&theme=cobalt&show_icons=true)](https://github.com/rodrigodev/RodrigoDev)
